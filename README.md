@@ -3,7 +3,13 @@
 ### php assignment
 
 _The Chatter Club_ is a basic social networking site that enables the users to signup to create an account and login whenever required.
-<br> This website has the features to add friends, search for friends using email, hometown, name and posts.
+<br> This website has the features to 
+* add friends
+* search for friends using
+  * email
+  * hometown
+  * name
+  * posts
 <br>
 As of now the signup is not enables as it uses jquery and js for its functionality and as mentioned in the assignment submission guidelines, [assignment submission guidelines](https://learn.rtcamp.com/campus/php-assignments/guidelines/).
 <br>I haven't included the js and jquery files for now. 
