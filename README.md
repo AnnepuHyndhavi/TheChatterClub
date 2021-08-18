@@ -20,8 +20,12 @@ For the _database_, a table is created for the users to check their friendship s
 <br>
 <br>
 ![phpmyadmin](https://user-images.githubusercontent.com/47473752/129884191-f84045cc-def0-434c-8196-34a22a18a5f5.png)
-
-
+<br>
+**As the signup isnt enabled we can use the below email and password to check the chatterbot**
+User Email id |  Password
+------------ | -------------
+vj3423@gmail.com | 1209
+Content in the first column | Content in the second column
 
 
 
