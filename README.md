@@ -57,6 +57,7 @@ The above files of code, each code has a different purpose such as the index for
 
 ![Screenshot 2021-08-18 at 10 56 58 PM](https://user-images.githubusercontent.com/47473752/129944321-93326345-29c5-4a9e-861c-403556e21278.png)
 > 7. The logout button is used to log the user successfully out.
+> 8. User can also post their posts public or private.
 
 **The screenshots of the assignment are uploaded in the folder named as _outputs_ in the above folders.**
 
