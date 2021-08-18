@@ -17,10 +17,12 @@ _The Chatter Club_ is a basic social networking site that enables the users to s
 As of now the signup is not enables as it uses jquery and js for its functionality and as mentioned in the assignment submission guidelines,  https://learn.rtcamp.com/campus/php-assignments/guidelines/
 <br>
 <br>
-
-<br>
 I haven't included the js and jquery files for now. 
 <br>
+**With the use of the jquery and js files the signup page is displayed as:**
+![Signup form](https://user-images.githubusercontent.com/47473752/129940113-b8b7ffba-42f3-4b5f-8a11-e1e397fb6515.png)
+
+
 For the _database_, a table is created for the users to check their friendship staus, posts and the user mobile number i.e,,. incase the user wishes to share his/her/their number.
 <br> phpmyadmin is used for the data storing purposes.
 <br>
