@@ -7,14 +7,14 @@ _The Chatter Club_ is a basic social networking site that enables the users to s
 * Add friends
 * Post images, text.
 * Check profile of one's own or friends or other person.
-* Logout, llogin ans signup
+* Logout, login and signup
 * search for friends using
   * email
   * hometown
   * name
   * posts
 <br>
-As of now the signup is not enables as it uses jquery and js for its functionality and as mentioned in the assignment submission guidelines,  https://learn.rtcamp.com/campus/php-assignments/guidelines/
+As of now the signup is not enabled as it uses jquery and js for its functionality and as mentioned in the assignment submission guidelines,  https://learn.rtcamp.com/campus/php-assignments/guidelines/
 <br>
 <br>
 I haven't included the js and jquery files for now. 
