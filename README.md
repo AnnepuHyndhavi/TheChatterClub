@@ -1,7 +1,28 @@
-# php-starter
+# The Chatter Club
+## Social Networking Site.
+### php assignment
 
-If you are reading this in your assignment repo, please read [assignment submission guidelines](https://learn.rtcamp.com/campus/php-assignments/guidelines/) before proceeding.
+_The Chatter Club_ is a basic social networking site that enables the users to signup to create an account and login whenever required.
+<br> This website has the features to 
+* add friends
+* search for friends using
+  * email
+  * hometown
+  * name
+  * posts
+<br>
+As of now the signup is not enables as it uses jquery and js for its functionality and as mentioned in the assignment submission guidelines,  https://learn.rtcamp.com/campus/php-assignments/guidelines/
 
-Then make sure to replace content of the file with information relevant to your assignment. 
+I haven't included the js and jquery files for now. 
+<br>
+For the _database_, a table is created for the users to check their friendship staus, posts and the user mobile number i.e,,. incase the user wishes to share his/her/their number.
+<br> phpmyadmin is used for the data storing purposes.
+<br>
+<br>
+![phpmyadmin](https://user-images.githubusercontent.com/47473752/129884191-f84045cc-def0-434c-8196-34a22a18a5f5.png)
 
-Writing your own README.md file is required anyway as per [assignment submission guidelines](https://learn.rtcamp.com/campus/php-assignments/guidelines/).
+
+
+
+
+
