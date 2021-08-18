@@ -1,24 +1,24 @@
 <?php
 require 'func/functions.php';
 session_start();
-// Check whether user is logged on or not
+// Checks whether the user is logged in or not
 if (!isset($_SESSION['user_id'])) {
     header("location:index.php");
 }
-// Establish Database Connection
+// Establishing Database Connection
 $conn = connect();
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Social Network</title>
+    <title>Social Networking Site</title>
     <link rel="stylesheet" type="text/css" href="f_end/css/main.css">
 </head>
 <body>
     <div class="container">
         <?php include 'imp/navigationbar.php'; ?>
-        <h1>Your friend Requests</h1>
+        <h1>Your total friend Requests</h1>
         <?php
         // Responding to Request
         if ($_SERVER['REQUEST_METHOD'] == 'GET') {
