@@ -26,6 +26,12 @@ For the _database_, a table is created for the users to check their friendship s
 
 ![phpmyadmin](https://user-images.githubusercontent.com/47473752/129938695-0ddaeb41-f724-4b9b-9923-a775764134aa.png)
 
-
-
+**As the signup isnt available here are the mail id and passwords I've created for the random login checking purposes.**
+<br>
+User Email id | Password
+------------ | -------------
+vj3423@gmail.com | 1209
+yija12@gmail.com | 1234
+12@yahoo.com     | 1234
+vinu34@gmail.com | abcd
 
