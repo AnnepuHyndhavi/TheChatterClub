@@ -1,5 +1,5 @@
 # The Chatter Club
-## Social Networking Site.
+## A basic Social Networking Site.
 ### php assignment
 
 _The Chatter Club_ is a basic social networking site that enables the users to signup to create an account and login whenever required.
@@ -27,7 +27,7 @@ User Email id |  Password
 vj3423@gmail.com | 1209
 yija12@gmail.com | 1234
 12@yahoo.com     | 1234
-
+vinu34@gmail.com | abcd
 
 
 
