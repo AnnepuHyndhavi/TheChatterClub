@@ -14,10 +14,7 @@ _The Chatter Club_ is a basic social networking site that enables the users to s
   * name
   * posts
 <br>
-As of now the signup is not enabled as it uses jquery and js for its functionality and as mentioned in the assignment submission guidelines,  https://learn.rtcamp.com/campus/php-assignments/guidelines/
-<br>
-<br>
-I haven't included the js and jquery files for now. 
+
 <br>
 For the _database_, a table is created for the users to check their friendship staus, posts and the user mobile number i.e,,. incase the user wishes to share his/her/their number.
 <br> phpmyadmin is used for the data storing purposes.
@@ -26,14 +23,7 @@ For the _database_, a table is created for the users to check their friendship s
 
 ![phpmyadmin](https://user-images.githubusercontent.com/47473752/129938695-0ddaeb41-f724-4b9b-9923-a775764134aa.png)
 
-**As the signup isnt available here are the mail id and passwords I've created for the random login checking purposes.**
-<br>
-User Email id | Password
------------- | -------------
-vj3423@gmail.com | 1209
-yija12@gmail.com | 1234
-12@yahoo.com     | 1234
-vinu34@gmail.com | abcd
+
 
 **With the use of the jquery and js files the signup page is displayed as:**
 ![Signup form](https://user-images.githubusercontent.com/47473752/129941228-f3cbf5ef-be3e-4b5b-8d92-4ff0999bbd3b.png)
@@ -59,6 +49,6 @@ The above files of code, each code has a different purpose such as the index for
 > 7. The logout button is used to log the user successfully out.
 > 8. User can also post their posts public or private.
 
-**The screenshots of the assignment are uploaded in the folder named as _outputs_ in the above folders.**
+**The screenshots are uploaded in the folder named as _outputs_ in the above folders.**
 
 _Thank you_
